@@ -1,1 +1,3 @@
-ECHO is on.
+class Hello{
+    
+}
